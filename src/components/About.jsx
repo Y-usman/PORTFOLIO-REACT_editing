@@ -2,6 +2,7 @@
 // import Nav from 'react-bootstrap/Nav';
 // import Navbar from 'react-bootstrap/Navbar';
 // import portfolioLogo from '../assets/images/logo.png';
+import "./home.css"
 
 export const About = () => {
     return (
