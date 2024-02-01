@@ -18,7 +18,7 @@ This is a sample README file to be generated for demonstration purposes.
 Git clone the repo. While in the root folder of this project, Run "npm install" command.
 
 ## Usage
-Run the "node index.js" command and follow the prompts.
+Run the "npm start" command.
 
 ## License
 This project is licensed under the MIT License.
