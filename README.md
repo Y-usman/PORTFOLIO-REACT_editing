@@ -1,5 +1,5 @@
 
-# Sample README file
+# PORTFOLIO REACT - YUSUF USMAN
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
